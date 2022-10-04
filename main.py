@@ -1,6 +1,3 @@
-from calendar import c
-from hashlib import new
-from typing import List
 from ply import lex
 import ply.yacc as yacc
 import networkx as nx
